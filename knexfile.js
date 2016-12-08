@@ -2,7 +2,7 @@ module.exports = {
 
   development: {
     client: 'pg',
-    connection:  process.env.NODE_URL
+    connection:  process.env.DEVELOPMENT_NODE_URL
   },
   production: {
     client: 'pg',
