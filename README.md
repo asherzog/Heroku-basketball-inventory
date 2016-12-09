@@ -11,4 +11,4 @@ PUT/gear/:id,
 DELETE/gear/:id
 
 
-https://basketball-inventory.herokuapp.com/gear
+[Express CRUD API Deployed](https://basketball-inventory.herokuapp.com/gear)
